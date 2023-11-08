@@ -1,6 +1,6 @@
 # Auburn Classes & Side Projects
-Comp-1210 Introduction to Computing I (Java)<br />
-Comp-2210 Fundementals of Computing II (Java)<br />
+Comp1210 - Introduction to Computing I (Java)<br />
+Comp2210 - Fundementals of Computing II (Java)<br />
 Comp2710 - Software Construction (C++)<br/>
 Comp3220 - Principles of Programming Languages<br />
 Comp3270 - Introduction to Algorithms <br />
