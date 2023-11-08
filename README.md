@@ -1,2 +1,2 @@
-# COMP-1210
+# Auburn Classes & Side Projects
 Introduction to Computing I (Java)
