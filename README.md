@@ -11,3 +11,5 @@ Comp4300 - Computer Architecture <br />
 Comp4320 - Introduction to Computer Networks (Java) <br />
 Comp4730 - Computer Ethics <br />
 Comp5350 - Digital Forensics <br />
+
+<h2>Side Projects</h2>
