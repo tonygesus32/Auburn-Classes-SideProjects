@@ -1,4 +1,5 @@
 # Auburn Classes & Side Projects
+<h2>Auburn Classes</h2>
 Comp1210 - Introduction to Computing I (Java)<br />
 Comp2210 - Fundementals of Computing II (Java)<br />
 Comp2710 - Software Construction (C++)<br/>
