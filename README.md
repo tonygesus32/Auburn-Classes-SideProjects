@@ -13,3 +13,4 @@ Comp4730 - Computer Ethics <br />
 Comp5350 - Digital Forensics <br />
 
 <h2>Side Projects</h2>
+<p>Tea Cozy(HTML + CSS)</p>
